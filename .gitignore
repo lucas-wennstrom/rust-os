@@ -1,0 +1,13 @@
+# Rust build
+/target
+
+# QEMU / UEFI
+/esp/
+*.efi
+
+# rustfmt backups
+**/*.rs.bk
+
+# compiler crash dumps
+rustc-ice-*.txt
+
