@@ -1,2 +1,2 @@
-##Day1
+## Day1
 - Created the cargo application project
